@@ -5,9 +5,9 @@
       "cpf": "02354859694",
     }
   ],
-  "parameters": {
+  "parameters": [{
       "param1": "A",
       "param2": "B",
       "paramN": "C"
-  }
+  }]
 }
