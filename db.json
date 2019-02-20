@@ -4,10 +4,5 @@
       "accountNumber":"123456",
       "cpf": "02354859694",
     }
-  ],
-  "parameters": [{
-      "param1": "A",
-      "param2": "B",
-      "paramN": "C"
-  }]
+  ]
 }
