@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "accountNumber": "123456",
+  "cpf": "02354859694",
+  "parameters": [
+    {
+      "param1": "A",
+      "param2": "B",
+      "paramN": "C"
+    }
+  ]
 }
