@@ -1,8 +1,7 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "token": 1234567890
     }
   ]
 }
