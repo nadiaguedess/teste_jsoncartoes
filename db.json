@@ -1,15 +1,11 @@
 {
-  "posts":[
-	{	
-		"accountNumber": "123456",
-		"cpf": "02354859694",
-		"parameters": [
-			{
-			"param1": "A",
-			"param2": "B",
-			"paramN": "C"
-			}
-		]
-	}
-  ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
