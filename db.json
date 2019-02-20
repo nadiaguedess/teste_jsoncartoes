@@ -1,4 +1,5 @@
 {
+  "posts":[
   "accountNumber": "123456",
   "cpf": "02354859694",
   "parameters": [
@@ -7,5 +8,6 @@
       "param2": "B",
       "paramN": "C"
     }
+  ]
   ]
 }
